@@ -5,6 +5,7 @@ public class Main {
         // Press Alt+Intro with your caret at the highlighted text to seasdfasde how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
+        System.out.println("Hola");
 
         // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
